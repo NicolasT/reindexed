@@ -4,6 +4,7 @@ Build-Type:          Simple
 Name:                reindexed
 Version:             0.0.1.0
 Synopsis:            An experimental package for (Atkey-style) indexed monads
+Description:         Nothing to see here (yet).
 Homepage:            https://github.com/NicolasT/reindexed
 Bug-Reports:         https://github.com/NicolasT/reindexed/issues
 
